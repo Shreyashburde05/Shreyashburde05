@@ -1,246 +1,417 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shreyash%20Burde&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=58&descSize=18&descColor=a0a0ff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:0a0a2e,60:1a0533,100:0d0d1a&height=220&section=header&text=SHREYASH%20BURDE&fontSize=52&fontColor=00d4ff&fontAlignY=40&desc=◈%20Developer%20%7C%20AI%20Builder%20%7C%20Problem%20Solver%20◈&descAlignY=62&descSize=16&descColor=8888ff&animation=fadeIn&stroke=00d4ff&strokeWidth=1" />
 
-<!-- TYPING INTRO -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7EB8F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+GenAI+Builder+%F0%9F%A4%96;DSA+Problem+Solver+%F0%9F%A7%A9;Open+Source+Contributor+%F0%9F%8C%8D;Always+Leveling+Up+%E2%9A%A1)](https://git.io/typing-svg)
+</div>
 
-<br/>
+<div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/Shreyashburde05?label=Follow&style=social)](https://github.com/Shreyashburde05)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/shreyashburde)
-[![LeetCode](https://img.shields.io/badge/LeetCode-132%2B%20Solved-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/Shreyash_Burde)
-[![Email](https://img.shields.io/badge/Email-shreyashburde26%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shreyashburde26@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=⚡+INITIALIZING+TRAINER+PROFILE...;🤖+AI+%26+GenAI+Systems+Engineer;⚔️+Full+Stack+Web+Developer;🧠+DSA+%7C+500%2B+Problems+Solved;🚀+Currently+Leveling+Up...)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🎮 The Trainer Journey — Who Am I?
-
-> *Every developer starts as a new trainer — choosing their starter, exploring the world, and collecting badges one gym at a time.*
-
-I'm **Shreyash Burde**, a CS undergrad at **RCOEM, Nagpur** (CGPA: 8.3) and a **Python Development Intern at ParkBy Technologies**. I build AI-powered tools, full-stack web applications, and data-driven solutions that solve real problems.
-
-Think of me as a **Trainer mid-journey** — past the early routes, now taking on Gym Leaders (production-grade projects), collecting Technical Badges (skills & certifications), and gearing up for the Elite Four (industry challenges).
-
-```
-🗺️  Current Location  →  Nagpur, Maharashtra, India
-🎓  Current Quest     →  BTech CSE @ RCOEM (2023 – Present)
-⚔️  Active Mission    →  Python Dev Intern @ ParkBy Technologies
-🏆  Next Target       →  Full-time SWE / AI Engineer role
-```
-
----
-
-## 🐍🪜 Snakes & Ladders — My Growth Map
-
-> *Not every path is a straight ladder. Some snakes taught me more than the ladders did.*
-
-```
-[100] 🏆 Selected for SUNHACKS-2K25 — Asia's Largest GenAI Hackathon
-  ↑ LADDER: Broke into the GenAI/AI tooling space
-[87]  🤖 Built TrustGuard AI — real-time GenAI fact-checker
-  ↑ LADDER: Mastered multi-LLM APIs, Chrome Extension Dev, parallel processing
-[74]  🌾 Built AgriPredict — AI crop yield + disease prediction
-  ↑ LADDER: First end-to-end ML pipeline with feature engineering
-[62]  🐍 SNAKE: Struggled with API rate limits & downtime issues
-  ↓ Lesson: Learned API key rotation, LLM fallback chains (Gemini → Groq LLaMA)
-[55]  🧩 Solved 100+ LeetCode problems
-  ↑ LADDER: Unlocked DSA confidence
-[42]  🌐 Built first JavaScript web apps (Sudoku Solver, QR Generator)
-  ↑ LADDER: DOM mastery, backtracking algorithms, responsive CSS
-[30]  🐍 SNAKE: First hackathon — didn't place. Felt behind.
-  ↓ Lesson: Shipped anyway. That was the win.
-[18]  📖 Started BTech CSE — picked C & Python as starter Pokémon
-[01]  🎮 Journey Begins...
-```
-
----
-
-## ⚡ Pokédex — Skills & Abilities
-
-> *Every Trainer needs a well-rounded team. Here's mine.*
-
-### 🔥 Fire-Type — Languages (Core Combat)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 💧 Water-Type — Frontend & Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### 🌿 Grass-Type — Backend & AI
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white)
-![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-
-### ⚡ Electric-Type — Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### 🔮 Psychic-Type — Tools & IDEs
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-
----
-
-## 🏟️ Gym Battles — Projects
-
-> *These are the gyms I've cleared. Each one leveled up a new skill.*
-
----
-
-### 🥇 GYM 1 — TrustGuard AI *(Legendary Difficulty)*
-**`GenAI · Chrome Extension · Multi-LLM · Full Stack`**
-
-> *"The Truth Gym: Can your AI tell fact from hallucination?"*
-
-A **real-time GenAI fact-verification platform** with a Chrome Extension that scans AI-generated content on any webpage and instantly verifies it using live web evidence.
-
-- 🔍 Parallel claim verification with AI-generated search queries for near-instant results
-- 🎯 Visual trust scores: **Verified / Uncertain / Hallucinated**
-- 🔄 API key rotation + multi-LLM fallback: **Gemini → Groq LLaMA-3.3-70B** → zero downtime
-- 🌍 Auto multilingual explanations with citation evidence links
-- 🌓 Responsive dark/light UI with full usability polish
-
-**Gym Badge Earned:** 🛡️ *The Veritas Badge* — for mastering reliability engineering and AI orchestration
-
----
-
-### 🥈 GYM 2 — AgriPredict *(Advanced Difficulty)*
-**`Machine Learning · Data Pipelines · Web UI`**
-
-> *"The Harvest Gym: Predict the future of every field."*
-
-An **AI-powered agricultural platform** for crop yield forecasting and disease risk prediction — built to make data-driven farming accessible to anyone.
-
-- 🌱 ML models trained on soil, weather, and crop parameters for yield + risk prediction
-- 🔧 End-to-end data pipelines with feature engineering and preprocessing workflows
-- 📊 Intuitive web interface for real-time prediction visualization
-- 👥 Team of 3 — full architecture, build, and deployment
-
-**Gym Badge Earned:** 🌾 *The Harvest Badge* — for end-to-end ML ownership
-
----
-
-### 🥉 GYM 3 — Sudoku Solver *(Intermediate Difficulty)*
-**`JavaScript · Backtracking · DOM · CSS Grid`**
-
-> *"The Logic Gym: Only algorithmic thinkers pass."*
-
-A fully interactive **browser-based Sudoku Solver** with both manual-play and auto-solve modes powered by an optimized backtracking algorithm.
-
-- 🧠 Recursive solver validating row, column, and sub-grid constraints
-- ⌨️ Arrow-key navigation, input validation, real-time timer
-- 📐 Responsive layout using CSS Grid/Flexbox with clean UX
-
-**Gym Badge Earned:** 🧩 *The Logic Badge* — for mastering algorithms and DOM engineering
-
----
-
-### 🎖️ GYM 4 — Amazon Sales Dashboard *(Data Gym)*
-**`Power BI · DAX · Excel · Data Analytics`**
-
-> *"The Data Gym: Turn raw numbers into business stories."*
-
-An **interactive Power BI dashboard** analyzing multi-year Amazon e-commerce sales, built to surface actionable insights.
-
-- 📈 Revenue tracking, customer segmentation, product returns, monthly growth via **DAX**
-- 🏆 Top category insights: Electronics & Home & Office lead performance
-- 🚚 Logistics performance gap analysis
-
-**Gym Badge Earned:** 📊 *The Insight Badge* — for data storytelling and BI engineering
-
----
-
-## 🧩 Arena Stats — LeetCode & DSA
-
-> *"A Trainer who can't think fast loses every battle."*
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     🆔  TRAINER ID CARD                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-| Stat | Value |
-|------|-------|
-| 🟢 Easy Problems | 76 / 935 |
-| 🟡 Medium Problems | 46 / 2036 |
-| 🔴 Hard Problems | 10 / 921 |
-| 📦 Total Solved | **132+** |
-| 🔥 Max Streak | **21 Days** |
-| 📅 Active Days | 69 |
-| 🏅 Contest Rating | 1,415 |
-| 🌍 Global Rank | ~668,048 |
-| 🏆 Most Recent Badge | **50 Days Badge 2025** |
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                    ◈  TRAINER PROFILE  ◈                        │
+├─────────────────────────────────────────────────────────────────┤
+│  🆔  ID          :  SHREYASHBURDE05                             │
+│  🎯  Class       :  AI Engineer · Full Stack Dev                │
+│  ⚡  Level       :  Lv. 12  ████████████░░░░░░  [720 / 1000 XP]│
+│  🏛️  Guild       :  RCOEM, Nagpur  (CSE · CGPA 8.3)            │
+│  ⚔️  Active Quest:  Python Dev Intern @ ParkBy Technologies     │
+│  🌍  Region      :  Nagpur, Maharashtra, IN                     │
+│  🏆  Next Unlock :  System Design · Advanced LLM Systems        │
+└─────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
-**Languages Used in Arena:**
-- `C` — 53 problems | `Python` — 49 problems | `MySQL` — 30 problems
-
-**Combined Competitive Coding:** `500+` problems solved across LeetCode, CodeChef & HackerRank
-
-```
-🗡️  Difficulty Breakdown
-Easy   ████████████░░░░░░░░  ~57%
-Medium █████████░░░░░░░░░░░  ~35%
-Hard   ██░░░░░░░░░░░░░░░░░░   ~8%
-```
-
-> *Still climbing. The Elite Four doesn't fear Easy problems — it respects consistent Hard ones.*
-
----
-
-## 🏅 Trainer Badges — Achievements & Certifications
-
-> *Each badge is a story. Here's mine so far.*
-
-| Badge | Achievement |
-|-------|-------------|
-| 🌍 | **ECWoC 2026** — Elite Coders Winter of Code: Real open-source contributions with global developers |
-| 🤖 | **SUNHACKS-2K25** — Selected for Asia's Largest GenAI International Hackathon |
-| 🏃 | **Byte Quest AI VibeCoding Hackathon** — Participated & shipped |
-| ⚡ | **TechSprint Hackathon** — Built under pressure |
-| 🎃 | **Bappa Ka Prashad 5.0 (GDG)** — GDG community hackathon |
-| 📊 | **Kharagpur Data Science Hackathon (IIT Kharagpur)** — National-level data challenge |
-| 🦈 | **GitHub Pull Shark x2** — Active open-source contributor |
-| 🔥 | **LeetCode 50 Days Badge 2025** — Consistency matters |
-| 💼 | **Python Intern @ ParkBy Technologies** — Production-grade work on an AI parking platform |
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-![Shreyash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreyashburde05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shreyashburde05&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyashburde05&theme=tokyonight&hide_border=true&layout=compact)
+[![GitHub](https://img.shields.io/badge/GitHub-Shreyashburde05-00d4ff?style=flat-square&logo=github&logoColor=white&labelColor=0d0d1a)](https://github.com/Shreyashburde05)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7b5ef5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d0d1a)](https://linkedin.com/in/shreyashburde)
+[![LeetCode](https://img.shields.io/badge/LeetCode-132%2B_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white&labelColor=0d0d1a)](https://leetcode.com/Shreyash_Burde)
+[![Email](https://img.shields.io/badge/Gmail-Contact-ff4444?style=flat-square&logo=gmail&logoColor=white&labelColor=0d0d1a)](mailto:shreyashburde26@gmail.com)
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  📊  PLAYER STATS DASHBOARD                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `◈ PLAYER STATS` — Character Attributes
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyashburde)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shreyashburde05)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Shreyash_Burde)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyashburde26@gmail.com)
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                   ⚡  ATTRIBUTE BOARD  ⚡                        ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  🧠  INTELLIGENCE  [AI · ML · Backend]                          ║
+║      ████████████████░░░░  82 / 100                             ║
+║                                                                  ║
+║  ⚔️  STRENGTH      [DSA · Algorithms · Problem Solving]         ║
+║      ██████████████░░░░░░  72 / 100   (500+ problems solved)    ║
+║                                                                  ║
+║  🛡️  ENDURANCE     [Consistency · Streak · Open Source]         ║
+║      ██████████████████░░  88 / 100   (69 active days)          ║
+║                                                                  ║
+║  ⚡  SPEED         [Dev Velocity · Hackathons · Shipping]        ║
+║      █████████████░░░░░░░  68 / 100   (6+ hackathons)           ║
+║                                                                  ║
+║  🎨  CRAFT         [UI · Design · Frontend Engineering]         ║
+║      ████████████░░░░░░░░  64 / 100                             ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   🐉  POKÉMON TEAM  (SKILLS)                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `◈ ACTIVE TEAM` — Pokédex of Skills
+
+> *A trainer is only as strong as their team. Here's who I bring to every battle.*
+
+<div align="center">
+
+```
+┌──────────────────────┐  ┌──────────────────────┐  ┌──────────────────────┐
+│  🔥 PYTHON           │  │  ⚡ JAVASCRIPT        │  │  🌊 NEXT.JS          │
+│  Type: Fire / AI     │  │  Type: Electric       │  │  Type: Water / Web   │
+│  Lv. 8  ★★★★★★★★☆☆  │  │  Lv. 7  ★★★★★★★☆☆☆  │  │  Lv. 6  ★★★★★★☆☆☆☆  │
+│  ████████████████░░  │  │  ██████████████░░░░  │  │  ████████████░░░░░░  │
+│  Power: 82 / 100     │  │  Power: 74 / 100     │  │  Power: 68 / 100     │
+└──────────────────────┘  └──────────────────────┘  └──────────────────────┘
+
+┌──────────────────────┐  ┌──────────────────────┐  ┌──────────────────────┐
+│  🌿 FASTAPI          │  │  🔮 SQL / MySQL       │  │  ⚡ C LANGUAGE       │
+│  Type: Grass / API   │  │  Type: Psychic / Data │  │  Type: Normal / Core │
+│  Lv. 6  ★★★★★★☆☆☆☆  │  │  Lv. 7  ★★★★★★★☆☆☆  │  │  Lv. 8  ★★★★★★★★☆☆  │
+│  ████████████░░░░░░  │  │  ██████████████░░░░  │  │  ████████████████░░  │
+│  Power: 65 / 100     │  │  Power: 72 / 100     │  │  Power: 80 / 100     │
+└──────────────────────┘  └──────────────────────┘  └──────────────────────┘
+
+┌──────────────────────┐  ┌──────────────────────┐  ┌──────────────────────┐
+│  🛡️ TAILWIND CSS     │  │  🔥 POWER BI / DAX   │  │  👾 JAVA             │
+│  Type: Shield / UI   │  │  Type: Dragon / Data  │  │  Type: Rock / OOP    │
+│  Lv. 7  ★★★★★★★☆☆☆  │  │  Lv. 6  ★★★★★★☆☆☆☆  │  │  Lv. 6  ★★★★★★☆☆☆☆  │
+│  ██████████████░░░░  │  │  ████████████░░░░░░  │  │  ████████████░░░░░░  │
+│  Power: 70 / 100     │  │  Power: 65 / 100     │  │  Power: 62 / 100     │
+└──────────────────────┘  └──────────────────────┘  └──────────────────────┘
+```
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                 🧬  SKILL TREE  (PROGRESSION)                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `◈ SKILL TREE` — Progression Paths
+
+```
+                         ╔══════════════════╗
+                         ║   SHREYASH.EXE   ║
+                         ╚════════╤═════════╝
+              ┌──────────────────┼────────────────────┐
+              ▼                  ▼                     ▼
+     ┌──────────────┐   ┌──────────────┐    ┌──────────────────┐
+     │  🌐 FRONTEND │   │ ⚙️ BACKEND   │    │  🤖 AI / ML      │
+     └──────┬───────┘   └──────┬───────┘    └────────┬─────────┘
+            │                  │                      │
+      HTML + CSS          Python / C           ML Pipelines
+            │                  │                      │
+       JavaScript          FastAPI              Feature Eng.
+            │                  │                      │
+        React ✅           REST APIs ✅          Data Pipelines ✅
+            │                  │                      │
+       Next.js ✅           Node.js               GenAI / LLMs ✅
+            │                  │                      │
+       [Chrome Ext ✅]   [DB: MySQL ✅]       [Multi-LLM Fallback ✅]
+            │                  │                      │
+        Tailwind CSS        Vercel Deploy        [Vector DBs 🔒]
+                                │                     │
+                         [Scaling ⏳]        [LLM Fine-tuning 🔒]
+                                              [Agent Systems ⏳]
+
+  ✅ = Unlocked    ⏳ = In Progress    🔒 = Locked (Next Arc)
+```
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  🏆  BOSS BATTLES  (PROJECTS)                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `◈ BOSS BATTLES` — Campaign Log
+
+---
+
+### ⚔️ BOSS 01 — `TrustGuard AI`
+```
+╔═══════════════════════════════════════════════════════════════╗
+║  🏟️  BATTLE: The Hallucination Vault                         ║
+║  💀  DIFFICULTY: ██████████  LEGENDARY                       ║
+║  STATUS: ✅  DEFEATED                                         ╠═══════════════════════════════════════════════════════════════╣
+║  ⚔️  ARSENAL  : GenAI · Chrome Extension · Gemini · Groq     ║
+║                 FastAPI · Multi-LLM Fallback · REST APIs     ║
+╠═══════════════════════════════════════════════════════════════╣
+║  📜  OBJECTIVE:                                               ║
+║  Build a real-time AI fact-checker that scans any webpage    ║
+║  and verifies claims against live web evidence instantly.    ║
+╠═══════════════════════════════════════════════════════════════╣
+║  🎯  KEY MOVES:                                               ║
+║  → Parallel claim verification with AI-generated queries     ║
+║  → Visual trust scores: Verified / Uncertain / Hallucinated  ║
+║  → API key rotation + Gemini → Groq LLaMA-3.3-70B fallback   ║
+║  → Auto multilingual support + citation evidence links       ║
+╠═══════════════════════════════════════════════════════════════╣
+║  🎁  REWARDS EARNED:                                          ║
+║  +180 XP · LLM Orchestration · API Reliability Engineering  ║
+║  Chrome Extension Dev · Multi-LLM Architecture              ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+### ⚔️ BOSS 02 — `AgriPredict`
+```
+╔═══════════════════════════════════════════════════════════════╗
+║  🏟️  BATTLE: The Harvest Oracle                              ║
+║  💀  DIFFICULTY: ████████░░  HARD                            ║
+║  STATUS: ✅  DEFEATED                                         ╠═══════════════════════════════════════════════════════════════╣
+║  ⚔️  ARSENAL  : Python · ML · Scikit-Learn · FastAPI         ║
+║                 Data Pipelines · Feature Engineering         ║
+╠═══════════════════════════════════════════════════════════════╣
+║  📜  OBJECTIVE:                                               ║
+║  AI-driven platform for crop yield forecasting and           ║
+║  disease prediction — built for real-world farming impact.  ║
+╠═══════════════════════════════════════════════════════════════╣
+║  🎯  KEY MOVES:                                               ║
+║  → ML models on soil + weather + crop parameters             ║
+║  → End-to-end data pipelines with preprocessing              ║
+║  → Intuitive web interface for real-time predictions         ║
+║  → Team of 3 — full architecture + deployment                ║
+╠═══════════════════════════════════════════════════════════════╣
+║  🎁  REWARDS EARNED:                                          ║
+║  +160 XP · ML Pipeline Design · Model Deployment            ║
+║  Team Collaboration · Feature Engineering                    ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+### ⚔️ BOSS 03 — `Sudoku Solver`
+```
+╔═══════════════════════════════════════════════════════════════╗
+║  🏟️  BATTLE: The Logic Labyrinth                             ║
+║  💀  DIFFICULTY: ██████░░░░  MEDIUM                          ║
+║  STATUS: ✅  DEFEATED                                         ╠═══════════════════════════════════════════════════════════════╣
+║  ⚔️  ARSENAL  : JavaScript · HTML/CSS · DOM · CSS Grid       ║
+╠═══════════════════════════════════════════════════════════════╣
+║  📜  OBJECTIVE:                                               ║
+║  Interactive browser-based Sudoku Solver with backtracking   ║
+║  algorithm + manual play mode + real-time timer.            ║
+╠═══════════════════════════════════════════════════════════════╣
+║  🎯  KEY MOVES:                                               ║
+║  → Recursive solver with row/col/sub-grid constraint checks  ║
+║  → Arrow-key nav, input validation, accessibility-first UX  ║
+║  → CSS Grid/Flexbox responsive layout                        ║
+╠═══════════════════════════════════════════════════════════════╣
+║  🎁  REWARDS EARNED:                                          ║
+║  +110 XP · Backtracking Algorithms · DOM Mastery            ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+### ⚔️ BOSS 04 — `Amazon Sales Dashboard`
+```
+╔═══════════════════════════════════════════════════════════════╗
+║  🏟️  BATTLE: The Data Nexus                                  ║
+║  💀  DIFFICULTY: ██████░░░░  MEDIUM                          ║
+║  STATUS: ✅  DEFEATED                                         ╠═══════════════════════════════════════════════════════════════╣
+║  ⚔️  ARSENAL  : Power BI · DAX · Excel · Data Analytics      ║
+╠═══════════════════════════════════════════════════════════════╣
+║  📜  OBJECTIVE:                                               ║
+║  Interactive multi-year sales dashboard revealing business   ║
+║  insights from raw e-commerce data at scale.                ║
+╠═══════════════════════════════════════════════════════════════╣
+║  🎯  KEY MOVES:                                               ║
+║  → DAX measures for revenue, retention, returns, growth      ║
+║  → Category analysis: Electronics + Home & Office on top     ║
+║  → Logistics performance gap detection                       ║
+╠═══════════════════════════════════════════════════════════════╣
+║  🎁  REWARDS EARNED:                                          ║
+║  +90 XP · Business Intelligence · DAX Formulas              ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    📈  XP / LEVELING SYSTEM                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `◈ XP SYSTEM` — Progress to Next Level
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                    ⚡  LEVEL PROGRESSION  ⚡                     ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║   CURRENT LVL: 12   ████████████████████████░░░░░░  720 / 1000  ║
+║                                                                  ║
+║   📦  XP BREAKDOWN:                                              ║
+║   → Internship @ ParkBy Technologies       +200 XP              ║
+║   → TrustGuard AI (Legendary Boss)         +180 XP              ║
+║   → AgriPredict (Hard Boss)                +160 XP              ║
+║   → ECWoC 2026 Open Source                 +90 XP               ║
+║   → SUNHACKS-2K25 (International)          +70 XP               ║
+║   → 132 LeetCode + 500 Combined            +120 XP              ║
+║   → 5 Hackathons Participated              +60 XP               ║
+║   → GitHub Pull Shark x2                  +40 XP               ║
+║                                                                  ║
+║   🔓  NEXT UNLOCKS (at Lv. 13):                                  ║
+║   →  System Design Mastery                                       ║
+║   →  Advanced LLM Agent Systems                                  ║
+║   →  Open Source Project Leadership                              ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   🧩  ARENA STATS  (LEETCODE)                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `◈ ARENA STATS` — Combat Record
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                  ⚔️  LEETCODE BATTLE RECORD  ⚔️                 ║
+╠══════════════════════════════════════════════════════════════════╣
+║  🟢  EASY          76 solved    ████████████████████  ~57%      ║
+║  🟡  MEDIUM        46 solved    ████████████░░░░░░░░  ~35%      ║
+║  🔴  HARD          10 solved    ████░░░░░░░░░░░░░░░░   ~8%      ║
+╠══════════════════════════════════════════════════════════════════╣
+║  📦  Total Solved   :  132+      🏅  Contest Rating  :  1,415   ║
+║  🔥  Max Streak     :  21 Days   📅  Active Days     :  69      ║
+║  🏆  Badge          :  50 Days Badge 2025                       ║
+║  🌍  Global Rank    :  ~668,048  (Top 77.72%)                   ║
+╠══════════════════════════════════════════════════════════════════╣
+║  🗡️  WEAPONS USED:                                               ║
+║  C  → 53 battles  |  Python → 49 battles  |  MySQL → 30        ║
+╠══════════════════════════════════════════════════════════════════╣
+║  COMBINED CODING POWER:  500+ problems (LC + CC + HackerRank)  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    🏅  ACHIEVEMENT BADGES                     -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `◈ HALL OF FAME` — Earned Badges
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                    🏆  BADGE COLLECTION  🏆                      ║
+╠══════════════════════════════════════════════════════════════════╣
+║  🤖  SUNHACKS-2K25     Asia's Largest GenAI Hackathon — SELECTED║
+║  🌍  ECWoC 2026        Elite Coders Winter of Code — COMPLETED  ║
+║  🦈  Pull Shark x2     GitHub — ACTIVE OPEN SOURCE CONTRIBUTOR  ║
+║  🔥  50 Days 2025      LeetCode — CONSISTENCY BADGE EARNED      ║
+║  ⚡  TechSprint        Hackathon — SHIPPED UNDER PRESSURE       ║
+║  🎃  GDG Bappa 5.0     Google Dev Group — COMMUNITY BUILDER     ║
+║  📊  IIT KGP DS        Kharagpur Data Science Hackathon         ║
+║  💼  ParkBy Tech       Python Intern — PRODUCTION CODE DEPLOYED ║
+║  🏃  VibeCoding        Byte Quest AI Hackathon — PARTICIPATED   ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     📊  GITHUB STATS                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `◈ GITHUB STATS` — Repository Power
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreyashburde05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&bg_color=0d0d1a&title_color=00d4ff&text_color=8888ff&icon_color=7b5ef5)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Shreyashburde05&theme=tokyonight&hide_border=true&background=0d0d1a&ring=00d4ff&fire=7b5ef5&currStreakLabel=00d4ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyashburde05&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d0d1a&title_color=00d4ff&text_color=8888ff)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   🧠  ELITE MODE  (PHILOSOPHY)                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `◈ ELITE MODE` — Developer Philosophy
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                  🧠  CORE RUNTIME BELIEFS                       ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  "Ship early. Learn fast. Refactor always."                     ║
+║                                                                  ║
+║  "The best system is one that fails gracefully — I engineer    ║
+║   for the edge case, not just the happy path."                  ║
+║                                                                  ║
+║  "AI is not the product. The problem it solves is."             ║
+║                                                                  ║
+║  "Every hard problem is just an easy problem you haven't        ║
+║   broken down enough yet."                                      ║
+║                                                                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║  🎯  OPERATING PRINCIPLES:                                       ║
+║  → Build for reliability before building for scale             ║
+║  → Write code that future-you can debug at 2 AM                ║
+║  → Learn in public. Fail in public. Grow in public.            ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## `◈ CONNECT` — Find Me Online
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d1a)](https://linkedin.com/in/shreyashburde)
+[![GitHub](https://img.shields.io/badge/GitHub-Shreyashburde05-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d1a)](https://github.com/Shreyashburde05)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Shreyash__Burde-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d0d1a)](https://leetcode.com/Shreyash_Burde)
+[![Gmail](https://img.shields.io/badge/Gmail-shreyashburde26-ff4444?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d1a)](mailto:shreyashburde26@gmail.com)
 
 </div>
 
@@ -248,10 +419,13 @@ Hard   ██░░░░░░░░░░░░░░░░░░   ~8%
 
 <div align="center">
 
-> *"It's not about having the most powerful Pokémon. It's about the bond you build — with code, with problems, and with the craft."*
+```
+◈ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ◈
+              TRAINER NO. 05  |  THE JOURNEY CONTINUES
+           "The Elite Four isn't a destination. It's a mindset."
+◈ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ◈
+```
 
-**— Shreyash Burde, Trainer No. 05**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,40:1a0533,100:0a0a2e&height=120&section=footer&fontColor=00d4ff" />
 
 </div>
