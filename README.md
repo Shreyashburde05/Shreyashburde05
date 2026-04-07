@@ -1,20 +1,22 @@
 <div align="center">
 
-<!-- SCENE 1: TRAINER ENTERS THE POKÉMON WORLD – RAYQUAZA ENTERS FROM LEFT -->
-<!-- Bright anime sky header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,30:98FB98,60:FFD700,100:FF6347&height=80&section=header" />
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!-- 🌟 SCENE 1: RAYQUAZA ENTERS FROM THE LEFT – GAME BOY STYLE TRAVEL BEGINS -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
 
-<!-- Rayquaza 1 (TOP ENTRY) – Large horizontal flying in from left, full cinematic entrance -->
-<div align="center">
-  <img src="https://media.giphy.com/media/cYVSLsTxZKwTD5qYoL/giphy.gif" width="520px" title="✦ Rayquaza bursts into the sky from the left — Trainer Shreyash Burde has arrived in the Pokémon World! ✦"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,30:98FB98,60:FFD700,100:FF6347&height=85&section=header" />
+
+<!-- RAYQUAZA FRAME 1 (ENTRY – LEFT SIDE, HORIZONTAL FLYING IN) -->
+<div align="left">
+  <img src="https://media.giphy.com/media/cYVSLsTxZKwTD5qYoL/giphy.gif" width="420px" title="✦ Rayquaza enters from the left side of the sky — the legendary journey begins! ✦"/>
 </div>
 
-<!-- Trainer Card – bright sunny Pokémon game style -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFFDE7,50:FFF9C4,100:FFFDE7&height=180&text=✦%20Trainer%20Shreyash%20Burde%20✦&fontSize=38&fontColor=1a1a2e&fontAlignY=45&desc=🎮%20AI%20Engineer%20in%20Progress%20•%20Full%20Stack%20Dev%20•%20Problem%20Solver&descSize=15&descColor=3d3d6b&descAlignY=68&animation=fadeIn"/>
+<!-- Trainer Card Banner – Bright Pokémon anime world feel -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFFDE7,50:FFF9C4,100:FFFDE7&height=185&text=✦%20Trainer%20Shreyash%20Burde%20✦&fontSize=39&fontColor=1a1a2e&fontAlignY=45&desc=🎮%20AI%20Engineer%20in%20Progress%20•%20Full%20Stack%20Dev%20•%20Problem%20Solver&descSize=16&descColor=3d3d6b&descAlignY=68&animation=fadeIn"/>
 
 <br/>
 
-<!-- Social links -->
+<!-- Social Badges -->
 <a href="https://github.com/Shreyashburde05"><img src="https://img.shields.io/badge/🐙_GitHub-Shreyashburde05-2196F3?style=for-the-badge&labelColor=1565C0"/></a>
 <a href="https://linkedin.com/in/shreyashburde"><img src="https://img.shields.io/badge/🔗_LinkedIn-Connect-4CAF50?style=for-the-badge&labelColor=2E7D32"/></a>
 <a href="https://leetcode.com/Shreyash_Burde"><img src="https://img.shields.io/badge/⚔️_LeetCode-132%2B_Solved-FF9800?style=for-the-badge&labelColor=E65100"/></a>
@@ -22,8 +24,8 @@
 
 <br/><br/>
 
-<!-- Pikachu 1 (Intro) – Waving greeting, right side, welcoming the Trainer -->
-<img align="right" src="https://media.giphy.com/media/IaLmMHMlbBKNq/giphy.gif" width="160px" title="Pikachu waves happily from the right — Welcome, Trainer! ⚡"/>
+<!-- PIKACHU FRAME 1 (INTRO – WAVING, RIGHT SIDE) -->
+<img align="right" src="https://media.giphy.com/media/IaLmMHMlbBKNq/giphy.gif" width="155px" title="Pikachu waves excitedly from the right — Hello, new Trainer! ⚡"/>
 
 </div>
 
@@ -31,8 +33,8 @@
 
 <h2>🌿 Trainer Profile</h2>
 
-<!-- Eevee joins loyally (different pose from previous companions) -->
-<img align="left" src="https://media.giphy.com/media/1iu8uG2cjYFZS6wTxv/giphy.gif" width="160px" title="Eevee trots in from the left — your loyal companion joins the journey! 🍃"/>
+<!-- Eevee companion (loyal trot, left side for directional flow) -->
+<img align="left" src="https://media.giphy.com/media/1iu8uG2cjYFZS6wTxv/giphy.gif" width="155px" title="Eevee trots in from the left — your first companion joins the party! 🍃"/>
 
 ✨ A wild Trainer appeared! Go, Eevee!  
 
@@ -45,29 +47,27 @@
 
 <br clear="left"/>
 
-<!-- Transition: Charizard flying across to push the journey forward (centered, different flying GIF) -->
+<!-- TRANSITION: Charizard flying across (centered, pushing the scene forward) -->
 <div align="center">
-  <img src="https://media.giphy.com/media/S1a8HoFOHGwBjvXOBP/giphy.gif" width="300px" title="Charizard soars across the sky — the grand journey begins! 🔥"/>
+  <img src="https://media.giphy.com/media/S1a8HoFOHGwBjvXOBP/giphy.gif" width="290px" title="Charizard streaks across the sky — the adventure accelerates! 🔥"/>
 </div>
 
 <br/>
 
 <h2>⚡ Special Moves</h2>
 
-<!-- Pikachu 2 (Mid journey) – Running forward, left side this time for motion -->
-<img align="left" src="https://media.giphy.com/media/IaLmMHMlbBKNq/giphy.gif" width="140px" title="Pikachu dashes from the left — full speed ahead! ⚡"/>
+<!-- PIKACHU FRAME 2 (MID – RUNNING, LEFT SIDE – showing progression) -->
+<img align="left" src="https://media.giphy.com/media/IaLmMHMlbBKNq/giphy.gif" width="135px" title="Pikachu runs forward from the left — full speed into the journey! ⚡"/>
 
 This Trainer builds at the intersection of AI and the web — full-stack apps with real intelligence baked in.  
-From Chrome Extensions to ML pipelines, the focus is on shipping systems that are reliable, fast, and useful.  
-
 "Ship early. Learn fast. Refactor always."
 
 <br clear="left"/>
 
 <h3>📖 Pokédex — Tech Stack</h3>
 <div align="center">
-  <!-- Jigglypuff floating with a different floating animation -->
-  <img src="https://media.giphy.com/media/3oEdv9Y9md0jBDJPZm/giphy.gif" width="80px" title="Jigglypuff floats above the Pokédex — it knows every move! 🎤"/>
+  <!-- Jigglypuff floating (different floating motion) -->
+  <img src="https://media.giphy.com/media/3oEdv9Y9md0jBDJPZm/giphy.gif" width="75px" title="Jigglypuff floats above — it knows every technique! 🎤"/>
   
   ⚔️ Battle Languages  
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,c,javascript,java,html,css" /></a>
@@ -84,97 +84,92 @@ From Chrome Extensions to ML pipelines, the focus is on shipping systems that ar
 
 <br/>
 
-<!-- RAYQUAZA 2 (MID SECTION) – Smaller, different pose/angle, slightly further away feel, centered -->
+<!-- RAYQUAZA FRAME 2 (MID AIR – CENTERED, SMALLER + ANGLED, different GIF) -->
 <div align="center">
-  <img src="https://media.giphy.com/media/sRMPFaVQLGSw8/giphy.gif" width="340px" title="Rayquaza continues its flight — smaller and higher up, soaring toward the Legendary Projects! 🐉"/>
+  <img src="https://media.giphy.com/media/sRMPFaVQLGSw8/giphy.gif" width="320px" title="Rayquaza continues its flight — now higher and smaller in the distance, soaring toward the projects! 🐉"/>
 </div>
 
 <br/>
 
 <h2>🐉 Legendary Projects</h2>
 
-<!-- RAYQUAZA 3 (PROJECT SECTION) – Different GIF, angled/centered for variety, continuing the travel illusion -->
+<!-- RAYQUAZA FRAME 3 (PROJECT ZONE – CENTERED, POWERFUL / CLOSER POSE, different GIF) -->
 <div align="center">
-  <img src="https://media.giphy.com/media/FEHsYiEMOKTNRBmPou/giphy.gif" width="420px" title="Rayquaza dives into the Project Zone from a new angle — legends await!"/>
+  <img src="https://media.giphy.com/media/FEHsYiEMOKTNRBmPou/giphy.gif" width="430px" title="Rayquaza dives powerfully into the Project Zone — legends are here!"/>
 </div>
 
 <br/>
 
-<!-- PROJECT 1: TrustGuard AI – Mewtwo 1 (thinking/psychic observation), right side -->
+<!-- PROJECT 1: TrustGuard AI – Mewtwo thinking/psychic (right side) -->
 <h3>🔮 TrustGuard AI — Real-Time GenAI Fact Verification</h3>
-<img align="right" src="https://media.giphy.com/media/Rl9Yqavfj2Ula/giphy.gif" width="150px" title="Mewtwo hovers thoughtfully on the right — analyzing every claim with psychic power... 🧠"/>
+<img align="right" src="https://media.giphy.com/media/Rl9Yqavfj2Ula/giphy.gif" width="148px" title="Mewtwo observes from the right with calm psychic power — analyzing claims... 🧠"/>
 
 GenAI • Chrome Extension • Multi-LLM • FastAPI  
 
-A Chrome Extension + web platform that verifies AI-generated content in real time using live web evidence. Built for zero-downtime reliability with an intelligent multi-LLM fallback chain.
+A Chrome Extension + web platform that verifies AI-generated content in real time using live web evidence.
 
-- Parallel claim verification → visual Verified / Uncertain / Hallucinated scores  
-- Gemini → Groq LLaMA-3.3-70B fallback with API key rotation  
-- Multilingual auto-explanations with citation links  
+- Parallel claim verification with visual scores  
+- Multi-LLM fallback system  
+- Multilingual explanations with citations  
 
 <br clear="right"/>
 
-<!-- Transition: Small flying Pokémon (different Charizard or Pidgeot-style movement) centered -->
+<!-- TRANSITION: Flying movement (different GIF, centered) -->
 <div align="center">
-  <img src="https://media.giphy.com/media/S1a8HoFOHGwBjvXOBP/giphy.gif" width="260px" title="A fiery dragon streaks across — heading to the next field!"/>
+  <img src="https://media.giphy.com/media/S1a8HoFOHGwBjvXOBP/giphy.gif" width="250px" title="A dragon-type streaks across — next area incoming!"/>
 </div>
 
 <br/>
 
-<!-- PROJECT 2: AgriPredict – Bulbasaur 1 (tending/walking in nature), left side for contrast -->
+<!-- PROJECT 2: AgriPredict – Bulbasaur walking/tending (left side for directional travel) -->
 <h3>🌱 AgriPredict — AI Crop Yield & Disease Prediction</h3>
-<img align="left" src="https://media.giphy.com/media/7T33BLlHB7Vn3BFRB0/giphy.gif" width="145px" title="Bulbasaur walks through the fields from the left — nurturing the data crops 🌿"/>
+<img align="left" src="https://media.giphy.com/media/7T33BLlHB7Vn3BFRB0/giphy.gif" width="142px" title="Bulbasaur walks steadily from the left through the data fields 🌿"/>
 
 Python • Machine Learning • FastAPI • Data Pipelines  
 
-AI-driven platform for crop yield forecasting and disease risk prediction — making data-driven farming accessible to everyone.
+AI platform for crop yield forecasting and disease prediction.
 
-- ML models trained on soil, weather, and crop parameters  
-- End-to-end pipelines with feature engineering for accuracy  
-- Web UI for real-time prediction visualization (team of 3)  
+- Models trained on soil, weather, crop data  
+- Real-time web visualization  
 
 <br clear="left"/>
 
-<!-- Transition: Another flying movement, different GIF/pose -->
+<!-- TRANSITION: Quick movement GIF -->
 <div align="center">
-  <img src="https://media.giphy.com/media/FEHsYiEMOKTNRBmPou/giphy.gif" width="240px" title="Rayquaza glides onward — the path continues!"/>
+  <img src="https://media.giphy.com/media/FEHsYiEMOKTNRBmPou/giphy.gif" width="230px" title="Rayquaza glides onward — the path continues!"/>
 </div>
 
 <br/>
 
-<!-- PROJECT 3: Sudoku Solver – Alakazam (precision thinking/algorithm pose), right side -->
+<!-- PROJECT 3: Sudoku Solver – Alakazam precision (right side) -->
 <h3>🧠 Sudoku Solver — Interactive Web App</h3>
-<img align="right" src="https://media.giphy.com/media/9D7Jr3k2MBQCOG9BGJO/giphy.gif" width="130px" title="Alakazam focuses intensely on the right — solving the grid with psychic precision 🌀"/>
+<img align="right" src="https://media.giphy.com/media/9D7Jr3k2MBQCOG9BGJO/giphy.gif" width="128px" title="Alakazam focuses sharply on the right — solving the puzzle grid with precision 🌀"/>
 
-JavaScript • HTML/CSS • DOM • CSS Grid  
+JavaScript • Backtracking Algorithm • Interactive UI  
 
-A fully interactive browser-based Sudoku solver with auto-solve and manual modes, powered by an optimized backtracking algorithm.
-
-- Recursive solver with row / column / sub-grid constraint validation  
-- Arrow-key navigation, real-time timer, accessibility-first UX  
+Fully functional browser Sudoku solver with auto-solve, timer, and keyboard navigation.
 
 <br clear="right"/>
 
-<!-- Transition: Quick running/jumping feel -->
+<!-- TRANSITION: Energetic jump/run feel -->
 <div align="center">
-  <img src="https://media.giphy.com/media/10LKovKon8DENq/giphy.gif" width="220px" title="Pikachu leaps forward energetically — next challenge incoming!"/>
+  <img src="https://media.giphy.com/media/10LKovKon8DENq/giphy.gif" width="210px" title="Pikachu leaps forward with excitement!"/>
 </div>
 
 <br/>
 
-<!-- PROJECT 4: Amazon Sales Dashboard – Pikachu 3 (jumping/excited dashboard helper), left side -->
+<!-- PROJECT 4: Amazon Sales Dashboard – Pikachu jumping (left side) -->
 <h3>📊 Amazon Sales Dashboard — Power BI</h3>
-<img align="left" src="https://media.giphy.com/media/10LKovKon8DENq/giphy.gif" width="120px" title="Pikachu jumps with excitement from the left — dashboard data visualized! ⚡"/>
+<img align="left" src="https://media.giphy.com/media/10LKovKon8DENq/giphy.gif" width="118px" title="Pikachu jumps energetically from the left — visualizing sales data! ⚡"/>
 
-Power BI • DAX • Excel • Data Analytics  
+Power BI • DAX • Multi-year e-commerce analysis  
 
-Interactive dashboard analyzing multi-year Amazon e-commerce sales — revenue trends, customer segments, return analysis, and logistics gaps.  
+Interactive dashboard covering revenue trends, customer segments, and logistics.
 
 <br clear="left"/>
 
 <br/>
 
-<!-- SCENE 6: VICTORY ZONE -->
 <h2>🏟️ Gym Records — GitHub Stats</h2>
 
 <div align="center">
@@ -188,41 +183,39 @@ Interactive dashboard analyzing multi-year Amazon e-commerce sales — revenue t
 <br/>
 
 <h2>⚔️ Battle Arena — LeetCode</h2>
-<!-- Lucario 1 (charging aura, right side, battle energy) -->
-<img align="right" src="https://media.giphy.com/media/DgLsbE3RHBDO4/giphy.gif" width="145px" title="Lucario charges an Aura Sphere on the right — LeetCode battle mode activated!"/>
+
+<!-- Lucario charging (right side, battle energy) -->
+<img align="right" src="https://media.giphy.com/media/DgLsbE3RHBDO4/giphy.gif" width="142px" title="Lucario charges Aura Sphere on the right — battle stance ready!"/>
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Shreyash_Burde?theme=light&font=Nunito&ext=heatmap&border=1&radius=12" />
 </div>
 
-🟢 76 Easy 🟡 46 Medium 🔴 10 Hard  
-132+ total · Max streak 21 days · Contest rating 1,415  
-
-Type Advantages: C — 53 Python — 49 MySQL — 30  
+🟢 76 Easy 🟡 46 Medium 🔴 10 Hard • 132+ total • Max streak 21 days  
 
 <br clear="right"/>
 
-<!-- Pikachu 4 (Celebrating near badges, different victory pose, centered or right) -->
-<img align="right" src="https://media.giphy.com/media/IaLmMHMlbBKNq/giphy.gif" width="140px" title="Pikachu celebrates victory on the right — badges unlocked! ⚡🎉"/>
+<!-- PIKACHU FRAME 4 (VICTORY – CELEBRATING, RIGHT SIDE) -->
+<img align="right" src="https://media.giphy.com/media/IaLmMHMlbBKNq/giphy.gif" width="138px" title="Pikachu celebrates victory on the right — badges earned! ⚡🎉"/>
 
 <h2>🏆 Badge Collection</h2>
 
-🎊 You got a Gym Badge! You got a Gym Badge! You got a Gym Badge!  
+🎊 Gym Badges Obtained!  
 
 - 🤖 SUNHACKS-2K25 — Asia's Largest GenAI Hackathon 🏅  
-- 🌍 ECWoC 2026 — Elite Coders Winter of Code Contributor 🌐  
-- 🦈 GitHub Pull Shark ×2 — Active open-source contributions 🐠  
-- 🔥 LeetCode 50 Days Badge 2025 — Consistency milestone 💪  
-- ⚡ TechSprint Hackathon — Built & shipped under pressure 🚀  
-- 🎃 Bappa Ka Prashad 5.0 (GDG) — Google Dev Group 🎪  
-- 📊 IIT Kharagpur Data Science Hackathon — National level 🏛️  
-- 💼 Python Intern @ ParkBy Technologies — Production AI platform 🏢  
+- 🌍 ECWoC 2026 — Elite Coders Winter of Code Contributor  
+- 🦈 GitHub Pull Shark ×2  
+- 🔥 LeetCode 50 Days Badge 2025  
+- ⚡ TechSprint Hackathon  
+- 🎃 Bappa Ka Prashad 5.0 (GDG)  
+- 📊 IIT Kharagpur Data Science Hackathon  
+- 💼 Python Intern @ ParkBy Technologies  
 
 <br clear="right"/>
 
-<!-- RAYQUAZA 4 (BOTTOM EXIT) – Final different GIF, flying away / exiting the scene -->
-<div align="center">
-  <img src="https://media.giphy.com/media/4805zfHsKebGEw4McK/giphy.gif" width="380px" title="Rayquaza flies off into the horizon — the legendary journey continues far beyond... 🐉✨"/>
+<!-- RAYQUAZA FRAME 4 (EXIT – FLYING AWAY TO THE RIGHT, different GIF) -->
+<div align="right">
+  <img src="https://media.giphy.com/media/4805zfHsKebGEw4McK/giphy.gif" width="360px" title="Rayquaza flies off toward the right horizon — the legendary journey continues far beyond... 🐉✨"/>
 </div>
 
 <br/>
@@ -230,19 +223,17 @@ Type Advantages: C — 53 Python — 49 MySQL — 30
 <h2>🧠 Trainer's Philosophy</h2>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Ov5NiLVXT8JEc/giphy.gif" width="100px" title="Contemplating the path ahead..."/>
+  <img src="https://media.giphy.com/media/Ov5NiLVXT8JEc/giphy.gif" width="95px" title="Pondering the next big system..."/>
   <br/>
   
-  "Ship early. Learn fast. Refactor always."  
-  <br/>
-  "The best system is one that fails gracefully — engineer for the edge case, not just the happy path."  
-  <br/>
+  "Ship early. Learn fast. Refactor always."<br/>
+  "Engineer for the edge case, not just the happy path."<br/>
   "AI is not the product. The problem it solves is."
   
   <br/><br/>
   
-  <!-- Final Pikachu 5 – Celebrating / waving goodbye, different from previous poses -->
-  <img src="https://media.giphy.com/media/IaLmMHMlbBKNq/giphy.gif" width="90px" title="Pikachu cheers one last time — Until the next adventure, Trainer! 👋⚡"/>
+  <!-- FINAL PIKACHU (WAVING GOODBYE / CELEBRATING, slightly different pose feel) -->
+  <img src="https://media.giphy.com/media/IaLmMHMlbBKNq/giphy.gif" width="85px" title="Pikachu waves farewell — Until our paths cross again, Trainer! 👋⚡"/>
   <br/>
   
   ✦ Trainer No. 05 · The journey continues ✦
@@ -250,7 +241,6 @@ Type Advantages: C — 53 Python — 49 MySQL — 30
 
 <br/>
 
-<!-- Closing warm footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6347,30:FFD700,60:98FB98,100:87CEEB&height=80&section=footer" />
 
 </div>
