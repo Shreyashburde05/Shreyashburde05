@@ -1,10 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,40:0a0a3e,80:1a0040,100:0d0d1a&height=200&section=header&text=Shreyash%20Burde&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20in%20Progress%20%E2%80%A2%20Full%20Stack%20Dev%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descSize=15&descColor=a0a8ff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:0a0a3e,70:1a0040,100:0d0d1a&height=220&section=header&text=Shreyash%20Burde&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20in%20Progress%20%E2%80%A2%20Full%20Stack%20Dev%20%E2%80%A2%20Problem%20Solver&descAlignY=62&descSize=15&descColor=a0a8ff&animation=fadeIn" />
+
+</div>
+
+<div align="center">
+
+<!-- Pikachu greeting — alive at the entrance, reacting to your arrival -->
+<img src="https://media.giphy.com/media/IaLmMHMlbBKNq/giphy.gif" width="90px" title="Pikachu spotted you!"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=7EB8F7&center=true&vCenter=true&width=650&lines=⚡+Hey+there%2C+I'm+Shreyash+—+Trainer+No.+05;🤖+Building+AI+tools+that+actually+matter;⚔️+Full+Stack+%7C+GenAI+%7C+Python+Dev;🧠+500%2B+Problems+Solved+%26+Still+Grinding)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=7EB8F7&center=true&vCenter=true&width=660&lines=⚡+Hey+there%2C+I'm+Shreyash+—+Trainer+No.+05;🤖+Building+AI+tools+that+actually+matter;⚔️+Full+Stack+%7C+GenAI+%7C+Python+Dev;🧠+500%2B+Problems+Solved+%26+Still+Grinding)](https://git.io/typing-svg)
 
 <br/>
 
@@ -21,7 +28,8 @@
 
 ## 👾 &nbsp; About Me
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWF3Y3hkcXFnbzZscDV3NXBzaGZzbjh0NW96dHI2aWZnY3cxeWV3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JMV7IKoqzxlrS/giphy.gif" width="160px" style="border-radius: 12px; margin-left: 20px;"/>
+<!-- Eevee sitting calmly on the right — observing your profile like a quiet companion -->
+<img align="right" src="https://media.giphy.com/media/1iu8uG2cjYFZS6wTxv/giphy.gif" width="150px" title="Eevee is watching..."/>
 
 &nbsp; 🎓 &nbsp; **BTech CSE** @ RCOEM, Nagpur &nbsp;·&nbsp; CGPA: **8.3**
 
@@ -39,9 +47,10 @@
 
 ---
 
-## ⚡ &nbsp; What I Do
+## ⚡ &nbsp; What I Build
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazg5cGlrd3d0b3E1NmVwNWlxY3Rpb2VrdjE3NTd5bTFnNWw0bHNlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ov5NiLVXT8JEc/giphy.gif" width="140px" style="border-radius: 12px; margin-left: 20px;"/>
+<!-- Bulbasaur quietly growing — same energy as the "steady builder" vibe -->
+<img align="right" src="https://media.giphy.com/media/7T33BLlHB7Vn3BFRB0/giphy.gif" width="130px" title="Bulbasaur approves of clean code"/>
 
 I build things at the intersection of **AI and the web** —
 full-stack applications with real intelligence baked in.
@@ -81,9 +90,25 @@ From Chrome Extensions to ML pipelines, I focus on
 
 <br/>
 
+<!-- ═══════════════════════════════════════════════════════
+     RAYQUAZA FLIES ACROSS — cinematic transition into projects
+     It's not decoration. It's arriving to guard what's below.
+════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://media.giphy.com/media/sRMPFaVQLGSw8/giphy.gif" width="420px" title="Rayquaza descending — the projects zone is now active"/>
+<br/>
+<sub><i>Rayquaza descends. The battlefield opens.</i></sub>
+</div>
+
+<br/>
+
+---
+
 ### 🤖 &nbsp; TrustGuard AI &nbsp;—&nbsp; *Real-Time GenAI Fact Verification*
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHlseTlkMzIwcGZxcjgzcGNsZjdjMXo3bXhwMHl5ajhxOGpwamZsdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hyyV7pnbE0FqLNBAzs/giphy.gif" width="155px" style="border-radius: 10px; margin-left: 20px;"/>
+<!-- Rayquaza hovering above this project — it's the guardian of this system -->
+<img align="right" src="https://media.giphy.com/media/sRMPFaVQLGSw8/giphy.gif" width="150px" title="Rayquaza is guarding TrustGuard AI"/>
 
 `GenAI` &nbsp; `Chrome Extension` &nbsp; `Multi-LLM` &nbsp; `FastAPI`
 
@@ -99,7 +124,8 @@ A Chrome Extension + web platform that **verifies AI-generated content in real t
 
 ### 🌱 &nbsp; AgriPredict &nbsp;—&nbsp; *AI Crop Yield & Disease Prediction*
 
-<img align="right" src="https://media.giphy.com/media/media/Wq9NLimIycMBi/giphy.gif" width="145px" style="border-radius: 10px; margin-left: 20px;"/>
+<!-- Mewtwo on the right — thinking, calculating, observing data like a ML model would -->
+<img align="right" src="https://media.giphy.com/media/Rl9Yqavfj2Ula/giphy.gif" width="140px" title="Mewtwo processing the training data..."/>
 
 `Python` &nbsp; `Machine Learning` &nbsp; `FastAPI` &nbsp; `Data Pipelines`
 
@@ -115,7 +141,8 @@ AI-driven platform for **crop yield forecasting and disease risk prediction** �
 
 ### 🧩 &nbsp; Sudoku Solver &nbsp;—&nbsp; *Interactive Web App*
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzdvNGl5M2gxdXkzM2plamJyMGpsMzF1Ync3NTNteXB6bjl2Mm1xZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oKIPnbKgN3bXeVpvy/giphy.gif" width="130px" style="border-radius: 10px; margin-left: 20px;"/>
+<!-- Greninja dashing on the right — fast, precise, ninja-fast backtracking algorithm energy -->
+<img align="right" src="https://media.giphy.com/media/9D7Jr3k2MBQCOG9BGJO/giphy.gif" width="130px" title="Greninja executing the backtracking algorithm"/>
 
 `JavaScript` &nbsp; `HTML/CSS` &nbsp; `DOM` &nbsp; `CSS Grid`
 
@@ -130,9 +157,14 @@ A fully interactive **browser-based Sudoku solver** with auto-solve and manual m
 
 ### 📊 &nbsp; Amazon Sales Dashboard &nbsp;—&nbsp; *Power BI*
 
+<!-- Pikachu running — small, playful, quick project energy -->
+<img align="right" src="https://media.giphy.com/media/10LKovKon8DENq/giphy.gif" width="110px" title="Pikachu generating the dashboard..."/>
+
 `Power BI` &nbsp; `DAX` &nbsp; `Excel` &nbsp; `Data Analytics`
 
 Interactive dashboard analyzing **multi-year Amazon e-commerce sales** — revenue trends, customer segments, return analysis, and logistics gaps, all in one view.
+
+<br clear="right"/>
 
 ---
 
@@ -154,6 +186,9 @@ Interactive dashboard analyzing **multi-year Amazon e-commerce sales** — reven
 
 ## ⚔️ &nbsp; LeetCode Arena
 
+<!-- Lucario charging — represents the competitive grinding energy of the arena -->
+<img align="right" src="https://media.giphy.com/media/DgLsbE3RHBDO4/giphy.gif" width="140px" title="Lucario: locked in, preparing for battle"/>
+
 <div align="center">
 
 <img src="https://leetcard.jacoblin.cool/Shreyash_Burde?theme=dark&font=JetBrains+Mono&ext=heatmap" />
@@ -164,11 +199,14 @@ Interactive dashboard analyzing **multi-year Amazon e-commerce sales** — reven
 
 **Languages:** &nbsp; `C — 53` &nbsp; `Python — 49` &nbsp; `MySQL — 30`
 
+<br clear="right"/>
+
 ---
 
 ## 🏆 &nbsp; Achievements
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2U1cGk2Y3FwMTRhbjJydGgzdjN0ZTY5bm5rNXUxMWd3b214M283MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/10LKovKon8DENq/giphy.gif" width="130px" style="border-radius: 10px; margin-left: 20px;"/>
+<!-- Pikachu cheering — pure celebration energy, arms up, reacting to wins -->
+<img align="right" src="https://media.giphy.com/media/IaLmMHMlbBKNq/giphy.gif" width="120px" title="Pikachu celebrating every W"/>
 
 - 🤖 &nbsp; **SUNHACKS-2K25** — Selected for Asia's Largest GenAI Hackathon
 - 🌍 &nbsp; **ECWoC 2026** — Elite Coders Winter of Code Contributor
@@ -194,6 +232,14 @@ Interactive dashboard analyzing **multi-year Amazon e-commerce sales** — reven
 
 *"AI is not the product. The problem it solves is."*
 
+<br/>
+
+<!-- Gengar fading in at the end — mysterious, iconic, lives in the shadows of the page -->
+<img src="https://media.giphy.com/media/Ov5NiLVXT8JEc/giphy.gif" width="80px" title="Gengar was here the whole time."/>
+
+<br/>
+<sub><i>Trainer No. 05 &nbsp;·&nbsp; The journey continues</i></sub>
+
 </div>
 
 ---
@@ -201,7 +247,5 @@ Interactive dashboard analyzing **multi-year Amazon e-commerce sales** — reven
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a0040,100:0a0a3e&height=110&section=footer" />
-
-*Trainer No. 05 &nbsp;·&nbsp; The journey continues*
 
 </div>
