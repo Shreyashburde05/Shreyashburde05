@@ -1,23 +1,20 @@
 <div align="center">
-<!-- ╔══════════════════════════════════════════════════════╗ -->
-<!-- 🌟 SCENE 1: TRAINER ENTERS THE POKÉMON WORLD 🌟 -->
-<!-- Rayquaza soars across the sky — the adventure begins! -->
-<!-- ╚══════════════════════════════════════════════════════╝ -->
 
-<!-- Bright anime-style sky + sunny field wave header -->
+<!-- SCENE 1: TRAINER ENTERS THE POKÉMON WORLD – RAYQUAZA ENTERS FROM LEFT -->
+<!-- Bright anime sky header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,30:98FB98,60:FFD700,100:FF6347&height=80&section=header" />
 
-<!-- LARGE RAYQUAZA ENTRY — Flying across the entire header (cinematic entrance) -->
+<!-- Rayquaza 1 (TOP ENTRY) – Large horizontal flying in from left, full cinematic entrance -->
 <div align="center">
-  <img src="https://media.giphy.com/media/cYVSLsTxZKwTD5qYoL/giphy.gif" width="520px" title="✦ RAYQUAZA SOARS ACROSS THE SKY — Trainer Shreyash Burde has entered the Pokémon World! ✦"/>
+  <img src="https://media.giphy.com/media/cYVSLsTxZKwTD5qYoL/giphy.gif" width="520px" title="✦ Rayquaza bursts into the sky from the left — Trainer Shreyash Burde has arrived in the Pokémon World! ✦"/>
 </div>
 
-<!-- Trainer Card banner — bright yellow/cream, full Pokémon game card energy -->
+<!-- Trainer Card – bright sunny Pokémon game style -->
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFFDE7,50:FFF9C4,100:FFFDE7&height=180&text=✦%20Trainer%20Shreyash%20Burde%20✦&fontSize=38&fontColor=1a1a2e&fontAlignY=45&desc=🎮%20AI%20Engineer%20in%20Progress%20•%20Full%20Stack%20Dev%20•%20Problem%20Solver&descSize=15&descColor=3d3d6b&descAlignY=68&animation=fadeIn"/>
 
 <br/>
 
-<!-- Social badges with Pokémon flair -->
+<!-- Social links -->
 <a href="https://github.com/Shreyashburde05"><img src="https://img.shields.io/badge/🐙_GitHub-Shreyashburde05-2196F3?style=for-the-badge&labelColor=1565C0"/></a>
 <a href="https://linkedin.com/in/shreyashburde"><img src="https://img.shields.io/badge/🔗_LinkedIn-Connect-4CAF50?style=for-the-badge&labelColor=2E7D32"/></a>
 <a href="https://leetcode.com/Shreyash_Burde"><img src="https://img.shields.io/badge/⚔️_LeetCode-132%2B_Solved-FF9800?style=for-the-badge&labelColor=E65100"/></a>
@@ -25,17 +22,17 @@
 
 <br/><br/>
 
-<!-- PIKACHU GREETING — near intro, waving hello to the Trainer -->
-<img align="right" src="https://media.giphy.com/media/IaLmMHMlbBKNq/giphy.gif" width="160px" title="Pikachu waves excitedly — Hello, Trainer! Ready for the journey? ⚡"/>
+<!-- Pikachu 1 (Intro) – Waving greeting, right side, welcoming the Trainer -->
+<img align="right" src="https://media.giphy.com/media/IaLmMHMlbBKNq/giphy.gif" width="160px" title="Pikachu waves happily from the right — Welcome, Trainer! ⚡"/>
+
 </div>
 
 <br clear="right"/>
 
-<!-- SCENE 2: COMPANION JOINS — Trainer Profile -->
 <h2>🌿 Trainer Profile</h2>
 
-<!-- Eevee as loyal companion, but Pikachu already greeted above -->
-<img align="right" src="https://media.giphy.com/media/1iu8uG2cjYFZS6wTxv/giphy.gif" width="160px" title="Eevee joins the party — your loyal companion is here! 🍃"/>
+<!-- Eevee joins loyally (different pose from previous companions) -->
+<img align="left" src="https://media.giphy.com/media/1iu8uG2cjYFZS6wTxv/giphy.gif" width="160px" title="Eevee trots in from the left — your loyal companion joins the journey! 🍃"/>
 
 ✨ A wild Trainer appeared! Go, Eevee!  
 
@@ -46,32 +43,31 @@
 🧩 500+ wild problems defeated across LeetCode, CodeChef & HackerRank  
 🚀 Currently training in: LLM Systems & System Design  
 
-<br clear="right"/>
+<br clear="left"/>
 
-<!-- Small flying transition Pokémon (Charizard) to connect to next scene -->
+<!-- Transition: Charizard flying across to push the journey forward (centered, different flying GIF) -->
 <div align="center">
-  <img src="https://media.giphy.com/media/S1a8HoFOHGwBjvXOBP/giphy.gif" width="280px" title="Charizard flies ahead — the journey begins! 🔥"/>
+  <img src="https://media.giphy.com/media/S1a8HoFOHGwBjvXOBP/giphy.gif" width="300px" title="Charizard soars across the sky — the grand journey begins! 🔥"/>
 </div>
 
 <br/>
 
-<!-- SCENE 3: JOURNEY BEGINS — Special Moves / Tech Stack -->
 <h2>⚡ Special Moves</h2>
 
-<!-- Pikachu running near journey start (but we'll ramp excitement toward projects) -->
-<img align="right" src="https://media.giphy.com/media/IaLmMHMlbBKNq/giphy.gif" width="130px" title="Pikachu dashes forward — always shipping new moves! ⚡"/>
+<!-- Pikachu 2 (Mid journey) – Running forward, left side this time for motion -->
+<img align="left" src="https://media.giphy.com/media/IaLmMHMlbBKNq/giphy.gif" width="140px" title="Pikachu dashes from the left — full speed ahead! ⚡"/>
 
 This Trainer builds at the intersection of AI and the web — full-stack apps with real intelligence baked in.  
 From Chrome Extensions to ML pipelines, the focus is on shipping systems that are reliable, fast, and useful.  
 
 "Ship early. Learn fast. Refactor always."
 
-<br clear="right"/>
+<br clear="left"/>
 
 <h3>📖 Pokédex — Tech Stack</h3>
 <div align="center">
-  <!-- Jigglypuff floating — knows all the moves -->
-  <img src="https://media.giphy.com/media/3oEdv9Y9md0jBDJPZm/giphy.gif" width="70px" title="Jigglypuff knows ALL the moves! 🎤"/>
+  <!-- Jigglypuff floating with a different floating animation -->
+  <img src="https://media.giphy.com/media/3oEdv9Y9md0jBDJPZm/giphy.gif" width="80px" title="Jigglypuff floats above the Pokédex — it knows every move! 🎤"/>
   
   ⚔️ Battle Languages  
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,c,javascript,java,html,css" /></a>
@@ -88,30 +84,25 @@ From Chrome Extensions to ML pipelines, the focus is on shipping systems that ar
 
 <br/>
 
-<!-- RAYQUAZA MID-TRANSITION — smaller, continuing the flight across the page -->
+<!-- RAYQUAZA 2 (MID SECTION) – Smaller, different pose/angle, slightly further away feel, centered -->
 <div align="center">
-  <img src="https://media.giphy.com/media/FEHsYiEMOKTNRBmPou/giphy.gif" width="340px" title="Rayquaza continues its legendary flight — heading toward the Project Zone! 🐉"/>
-  <br/>
-  <b>✦ The wind picks up... a Legendary presence approaches! ✦</b>
+  <img src="https://media.giphy.com/media/sRMPFaVQLGSw8/giphy.gif" width="340px" title="Rayquaza continues its flight — smaller and higher up, soaring toward the Legendary Projects! 🐉"/>
 </div>
 
 <br/>
 
-<!-- SCENE 4: LEGENDARY APPEARS + SCENE 5: BATTLE ZONE (Projects) -->
 <h2>🐉 Legendary Projects</h2>
 
-<!-- LARGE cinematic Rayquaza already used at top; now the mid one flows into projects -->
+<!-- RAYQUAZA 3 (PROJECT SECTION) – Different GIF, angled/centered for variety, continuing the travel illusion -->
 <div align="center">
-  <img src="https://media.giphy.com/media/sRMPFaVQLGSw8/giphy.gif" width="480px" title="Rayquaza descends — Legendary Project Zone is now open!"/>
-  <br/>
-  <b>✦ A Legendary Pokémon appeared above the project zone! ✦</b>
+  <img src="https://media.giphy.com/media/FEHsYiEMOKTNRBmPou/giphy.gif" width="420px" title="Rayquaza dives into the Project Zone from a new angle — legends await!"/>
 </div>
 
 <br/>
 
-<!-- PROJECT 1: TrustGuard AI → Mewtwo (intelligence) -->
+<!-- PROJECT 1: TrustGuard AI – Mewtwo 1 (thinking/psychic observation), right side -->
 <h3>🔮 TrustGuard AI — Real-Time GenAI Fact Verification</h3>
-<img align="right" src="https://media.giphy.com/media/Rl9Yqavfj2Ula/giphy.gif" width="150px" title="Mewtwo: analyzing claims with psychic precision... 🧠"/>
+<img align="right" src="https://media.giphy.com/media/Rl9Yqavfj2Ula/giphy.gif" width="150px" title="Mewtwo hovers thoughtfully on the right — analyzing every claim with psychic power... 🧠"/>
 
 GenAI • Chrome Extension • Multi-LLM • FastAPI  
 
@@ -123,16 +114,16 @@ A Chrome Extension + web platform that verifies AI-generated content in real tim
 
 <br clear="right"/>
 
-<!-- Flying transition after Project 1 (small Rayquaza continuing flight) -->
+<!-- Transition: Small flying Pokémon (different Charizard or Pidgeot-style movement) centered -->
 <div align="center">
-  <img src="https://media.giphy.com/media/FEHsYiEMOKTNRBmPou/giphy.gif" width="280px" title="Rayquaza flies onward to the next adventure..."/>
+  <img src="https://media.giphy.com/media/S1a8HoFOHGwBjvXOBP/giphy.gif" width="260px" title="A fiery dragon streaks across — heading to the next field!"/>
 </div>
 
 <br/>
 
-<!-- PROJECT 2: AgriPredict → Bulbasaur (nature/farming) -->
+<!-- PROJECT 2: AgriPredict – Bulbasaur 1 (tending/walking in nature), left side for contrast -->
 <h3>🌱 AgriPredict — AI Crop Yield & Disease Prediction</h3>
-<img align="right" src="https://media.giphy.com/media/7T33BLlHB7Vn3BFRB0/giphy.gif" width="145px" title="Bulbasaur tending to the data fields 🌿"/>
+<img align="left" src="https://media.giphy.com/media/7T33BLlHB7Vn3BFRB0/giphy.gif" width="145px" title="Bulbasaur walks through the fields from the left — nurturing the data crops 🌿"/>
 
 Python • Machine Learning • FastAPI • Data Pipelines  
 
@@ -142,18 +133,18 @@ AI-driven platform for crop yield forecasting and disease risk prediction — ma
 - End-to-end pipelines with feature engineering for accuracy  
 - Web UI for real-time prediction visualization (team of 3)  
 
-<br clear="right"/>
+<br clear="left"/>
 
-<!-- Flying transition after Project 2 -->
+<!-- Transition: Another flying movement, different GIF/pose -->
 <div align="center">
-  <img src="https://media.giphy.com/media/FEHsYiEMOKTNRBmPou/giphy.gif" width="280px" title="Rayquaza soars toward the next challenge..."/>
+  <img src="https://media.giphy.com/media/FEHsYiEMOKTNRBmPou/giphy.gif" width="240px" title="Rayquaza glides onward — the path continues!"/>
 </div>
 
 <br/>
 
-<!-- PROJECT 3: Sudoku Solver → Alakazam (algorithm/brain) -->
+<!-- PROJECT 3: Sudoku Solver – Alakazam (precision thinking/algorithm pose), right side -->
 <h3>🧠 Sudoku Solver — Interactive Web App</h3>
-<img align="right" src="https://media.giphy.com/media/9D7Jr3k2MBQCOG9BGJO/giphy.gif" width="130px" title="Alakazam executing the backtracking algorithm at lightning speed! 🌀"/>
+<img align="right" src="https://media.giphy.com/media/9D7Jr3k2MBQCOG9BGJO/giphy.gif" width="130px" title="Alakazam focuses intensely on the right — solving the grid with psychic precision 🌀"/>
 
 JavaScript • HTML/CSS • DOM • CSS Grid  
 
@@ -164,26 +155,26 @@ A fully interactive browser-based Sudoku solver with auto-solve and manual modes
 
 <br clear="right"/>
 
-<!-- Flying transition after Project 3 -->
+<!-- Transition: Quick running/jumping feel -->
 <div align="center">
-  <img src="https://media.giphy.com/media/FEHsYiEMOKTNRBmPou/giphy.gif" width="280px" title="Rayquaza glides toward the final battle..."/>
+  <img src="https://media.giphy.com/media/10LKovKon8DENq/giphy.gif" width="220px" title="Pikachu leaps forward energetically — next challenge incoming!"/>
 </div>
 
 <br/>
 
-<!-- PROJECT 4: Amazon Sales Dashboard → Pikachu/Eevee (friendly/energy) -->
+<!-- PROJECT 4: Amazon Sales Dashboard – Pikachu 3 (jumping/excited dashboard helper), left side -->
 <h3>📊 Amazon Sales Dashboard — Power BI</h3>
-<img align="right" src="https://media.giphy.com/media/10LKovKon8DENq/giphy.gif" width="110px" title="Pikachu: generating the dashboard at full speed! ⚡"/>
+<img align="left" src="https://media.giphy.com/media/10LKovKon8DENq/giphy.gif" width="120px" title="Pikachu jumps with excitement from the left — dashboard data visualized! ⚡"/>
 
 Power BI • DAX • Excel • Data Analytics  
 
 Interactive dashboard analyzing multi-year Amazon e-commerce sales — revenue trends, customer segments, return analysis, and logistics gaps.  
 
-<br clear="right"/>
+<br clear="left"/>
 
 <br/>
 
-<!-- SCENE 6: VICTORY / ACHIEVEMENTS — Gym Records -->
+<!-- SCENE 6: VICTORY ZONE -->
 <h2>🏟️ Gym Records — GitHub Stats</h2>
 
 <div align="center">
@@ -197,8 +188,8 @@ Interactive dashboard analyzing multi-year Amazon e-commerce sales — revenue t
 <br/>
 
 <h2>⚔️ Battle Arena — LeetCode</h2>
-<!-- Lucario charging for battle energy -->
-<img align="right" src="https://media.giphy.com/media/DgLsbE3RHBDO4/giphy.gif" width="145px" title="Lucario: Aura Sphere charged. LeetCode battle begins!"/>
+<!-- Lucario 1 (charging aura, right side, battle energy) -->
+<img align="right" src="https://media.giphy.com/media/DgLsbE3RHBDO4/giphy.gif" width="145px" title="Lucario charges an Aura Sphere on the right — LeetCode battle mode activated!"/>
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Shreyash_Burde?theme=light&font=Nunito&ext=heatmap&border=1&radius=12" />
@@ -211,8 +202,8 @@ Type Advantages: C — 53 Python — 49 MySQL — 30
 
 <br clear="right"/>
 
-<!-- PIKACHU CELEBRATING — near achievements/victory zone -->
-<img align="right" src="https://media.giphy.com/media/IaLmMHMlbBKNq/giphy.gif" width="130px" title="Pikachu is celebrating — victory pose unlocked! ⚡🎉"/>
+<!-- Pikachu 4 (Celebrating near badges, different victory pose, centered or right) -->
+<img align="right" src="https://media.giphy.com/media/IaLmMHMlbBKNq/giphy.gif" width="140px" title="Pikachu celebrates victory on the right — badges unlocked! ⚡🎉"/>
 
 <h2>🏆 Badge Collection</h2>
 
@@ -229,18 +220,17 @@ Type Advantages: C — 53 Python — 49 MySQL — 30
 
 <br clear="right"/>
 
-<!-- FINAL RAYQUAZA EXIT — leaving the page, completing the full flight illusion -->
+<!-- RAYQUAZA 4 (BOTTOM EXIT) – Final different GIF, flying away / exiting the scene -->
 <div align="center">
-  <img src="https://media.giphy.com/media/4805zfHsKebGEw4McK/giphy.gif" width="380px" title="Rayquaza flies off into the horizon — the journey continues! 🐉✨"/>
+  <img src="https://media.giphy.com/media/4805zfHsKebGEw4McK/giphy.gif" width="380px" title="Rayquaza flies off into the horizon — the legendary journey continues far beyond... 🐉✨"/>
 </div>
 
 <br/>
 
-<!-- SCENE 6 FINALE: Trainer's Philosophy -->
 <h2>🧠 Trainer's Philosophy</h2>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Ov5NiLVXT8JEc/giphy.gif" width="90px" title="Pondering the next system design..."/>
+  <img src="https://media.giphy.com/media/Ov5NiLVXT8JEc/giphy.gif" width="100px" title="Contemplating the path ahead..."/>
   <br/>
   
   "Ship early. Learn fast. Refactor always."  
@@ -251,8 +241,8 @@ Type Advantages: C — 53 Python — 49 MySQL — 30
   
   <br/><br/>
   
-  <!-- Final Pikachu waving goodbye -->
-  <img src="https://media.giphy.com/media/IaLmMHMlbBKNq/giphy.gif" width="80px" title="Pikachu waves goodbye — See you on the next adventure, Trainer! 👋⚡"/>
+  <!-- Final Pikachu 5 – Celebrating / waving goodbye, different from previous poses -->
+  <img src="https://media.giphy.com/media/IaLmMHMlbBKNq/giphy.gif" width="90px" title="Pikachu cheers one last time — Until the next adventure, Trainer! 👋⚡"/>
   <br/>
   
   ✦ Trainer No. 05 · The journey continues ✦
@@ -260,5 +250,7 @@ Type Advantages: C — 53 Python — 49 MySQL — 30
 
 <br/>
 
-<!-- Bright warm footer wave — closing the cinematic loop -->
+<!-- Closing warm footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6347,30:FFD700,60:98FB98,100:87CEEB&height=80&section=footer" />
+
+</div>
